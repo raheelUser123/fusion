@@ -3,13 +3,36 @@
 <?php include_once("includes/head.php"); ?>
 <body>
 <?php include_once("includes/header.php") ?>
+
+<div id="hero-section">
+        <div class="heading-hero">
+            <h1>ABOUT  <span>US
+                    </span>
+        </div>
+        <div class="lets-talk-button">
+            <a href="javascript:;" class="quote-button">
+                <i class="bi bi-chat-fill"></i>
+                <span>Let’s Talk</span></a>
+        </div>
+        <div class="hero-back-image">
+            <div class="hero-1image">
+                <img src="assets/images/hero-image-1.webp" alt="">
+            </div>
+            <div class="hero-2image">
+                <img src="assets/images/hero-image-2.webp" alt="">
+            </div>
+            <div class="hero-3image">
+                <img src="assets/images/hero-image-3.webp" alt="">
+            </div>
+        </div>
+    </div>
 <div id="about-us">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
                     <div class="about-heading">
                         <h5>OVER 150.000+ CLIENTS</h5>
-                        <h2>About Us</h2>
+                        <h2>OUR MISSION</h2>
                     </div>
                 </div>
                 <div class="col-md-4">
